@@ -5,12 +5,12 @@
 
 ### Hero [ hero-image ]
 hero:
-  image: "assets/img/profile2.png"
+  image: "assets/img/profile_new.png"
   image_alt: "하은정"
   before_title: "환영합니다, <b>제 이름은</b>"
   title: "<b>EunJeong</b> Ha"
   after_title: "I am <strong>Cyber Security Professional</strong>"
-  description: "폴리텍대학 강서캠퍼스 사이버 보안과 2학년입니다다."
+  description: "폴리텍대학 강서캠퍼스 사이버 보안과 2학년"
   button1:
     label: "이력서 다운받기"
     link: "#"
@@ -32,35 +32,35 @@ services:
   bg_title: "Services"
 
   items:
-    - title: "Web Design &amp; Logo"
-      subtitle: "Web Development"
-      text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
+    - title: "Privacy Protection System Design"
+      subtitle: "PRIVACY SYSTEM DESIGN"
+      text: "Expertise in Privacy Compliance and Technical Safeguards."
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "iOS &amp; Android"
-      subtitle: "Apps Development"
-      text: "Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing."
+    - title: "Security Practice for Privacy Defense"
+      subtitle: "SECURITY PRACTICE"
+      text: "Hands-on Offensive Techniques to Build Stronger Defenses."
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "Unity &amp; Unreal Engine"
-      subtitle: "Game Development"
-      text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
+    - title: "System & Network Security Operation"
+      subtitle: "SYSTEM & NETWORK"
+      text: "Foundation Security for Privacy-Preserving Environments."
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "Google Ads"
-      subtitle: "Advertising"
-      text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    # - title: "Google Ads"
+    #   subtitle: "Advertising"
+    #   text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
+    #   button_label: "See Pricing"
+    #   button_link: "#pricing-section"
 
-    - title: "Sound Track"
-      subtitle: "Music Writing"
-      text: "Music copying, writing, creating, transcription and composition services."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    # - title: "Sound Track"
+    #   subtitle: "Music Writing"
+    #   text: "Music copying, writing, creating, transcription and composition services."
+    #   button_label: "See Pricing"
+    #   button_link: "#pricing-section"
 
 ### Skills [ skills ]
 skills:
@@ -70,33 +70,33 @@ skills:
 
   column1:
     items:
-      - label: "PHP" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "85" #0-100 progress in %
+      - label: "Privacy Law & Policy Planning" #0-10 progress in dots
+        text: "Experience in developing policies based on international privacy regulations (PIPA, GDPR)."
+        value: "50" #0-100 progress in %
 
-      - label: "Python" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
+      # - label: "Python" #0-10 progress in dots
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      #   value: "75" #0-100 progress in %
 
   column2:
     items:
-      - label: "JavaScript" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
+      - label: "Privacy-Focused Security Practice" #0-10 progress in dots
+        text: "Analysis and response to personal data breach vectors based on various security threat scenarios including keyloggers, fake sudo, and privilege escalation."
+        value: "50" #0-100 progress in %
 
-      - label: "React" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "70" #0-100 progress in %
+      # - label: "React" #0-10 progress in dots
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      #   value: "70" #0-100 progress in %
 
   column3:
     items:
-      - label: "WordPress" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "90" #0-100 progress in %
+      - label: "Linux & Automation Scripting" #0-10 progress in dots
+        text: "Experience with Linux-based security configuration and log analysis using Python/Bash automation."
+        value: "50" #0-100 progress in %
 
-      - label: "Adobe XD" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "80" #0-100 progress in %
+      # - label: "Adobe XD" #0-10 progress in dots
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      #   value: "80" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
@@ -257,7 +257,7 @@ contacts:
   list:
     - label: "Address"
       icon: "far fa-map"
-      text: "North Tower, Toronto, Canada"
+      text: "Seoul, Korea"
 
     - label: "Freelance"
       icon: "far fa-user"
@@ -265,11 +265,11 @@ contacts:
 
     - label: "Email"
       icon: "far fa-envelope"
-      text: "zoe.miller@mydomain.com"
+      text: "jeongggi@naver.com"
 
     - label: "Phone"
       icon: "far fa-address-book"
-      text: "+1 900 - 900 - 9000"
+      text: "+82 010 - 0000 - 0000"
 
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*
