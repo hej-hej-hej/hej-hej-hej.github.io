@@ -7,7 +7,7 @@
 hero:
   image: "assets/img/profile_new.png"
   image_alt: "하은정"
-  before_title: "환영합니다, <b>제 이름은</b>"
+  before_title: "환영합니다. <b>제 이름은</b>"
   title: "<b>EunJeong</b> Ha"
   after_title: "I am <strong>Cyber Security Professional</strong>"
   description: "폴리텍대학 강서캠퍼스 사이버 보안과 2학년"
