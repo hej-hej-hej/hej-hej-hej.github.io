@@ -81,7 +81,7 @@ skills:
   column2:
     items:
       - label: "Privacy-Focused Security Practice" #0-10 progress in dots
-        text: "Analysis and response to personal data breach vectors based on various security threat scenarios including keyloggers, fake sudo, and privilege escalation."
+        text: "Analysis of personal data breach vectors including keyloggers, fake sudo, and privilege escalation."
         value: "50" #0-100 progress in %
 
       # - label: "React" #0-10 progress in dots
