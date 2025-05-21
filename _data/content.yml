@@ -1,8 +1,3 @@
-# Sections content configuration file
-##
-### use navigation.yml file to re-order, delete or add section of each card
-### here you can find all content in all pre-build sections
-
 ### Hero [ hero-image ]
 hero:
   image: "assets/img/profile_new.png"
@@ -21,93 +16,57 @@ hero:
   info:
     - num: "2 <strong>+</strong>"
       value: "Years of <strong>Experience</strong>"
-
     - num: "4"
       value: "Completed <strong>Projects</strong>"
-
+ 
 ### Services [ services ]
 services:
   title: "What I Do"
   subtitle: "my <b>Services</b>"
   bg_title: "Services"
-
   items:
     - title: "Privacy Protection System Design"
       subtitle: "PRIVACY SYSTEM DESIGN"
       text: "Expertise in Privacy Compliance and Technical Safeguards."
       button_label: "See Pricing"
       button_link: "#pricing-section"
-
     - title: "Security Practice for Privacy Defense"
       subtitle: "SECURITY PRACTICE"
       text: "Hands-on Offensive Techniques to Build Stronger Defenses."
       button_label: "See Pricing"
       button_link: "#pricing-section"
-
     - title: "System & Network Security Operation"
       subtitle: "SYSTEM & NETWORK"
       text: "Foundation Security for Privacy-Preserving Environments."
       button_label: "See Pricing"
       button_link: "#pricing-section"
-
-    # - title: "Google Ads"
-    #   subtitle: "Advertising"
-    #   text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
-    #   button_label: "See Pricing"
-    #   button_link: "#pricing-section"
-
-    # - title: "Sound Track"
-    #   subtitle: "Music Writing"
-    #   text: "Music copying, writing, creating, transcription and composition services."
-    #   button_label: "See Pricing"
-    #   button_link: "#pricing-section"
-
+ 
 ### Skills [ skills ]
 skills:
   title: "Professional Skills"
   subtitle: "my <b>Talent</b>"
   bg_title: "Skills"
-
   column1:
     items:
-      - label: "Privacy Law & Policy Planning" #0-10 progress in dots
+      - label: "Privacy Law & Policy Planning"
         text: "Experience in developing policies based on international privacy regulations (PIPA, GDPR)."
-        value: "50" #0-100 progress in %
-
-      # - label: "Python" #0-10 progress in dots
-      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      #   value: "75" #0-100 progress in %
-
+        value: "50"
   column2:
     items:
-      - label: "Privacy-Focused Security Practice" #0-10 progress in dots
-<<<<<<< HEAD
+      - label: "Privacy-Focused Security Practice"
         text: "Analysis and response to personal data breach vectors based on various security threat scenarios including keyloggers, fake sudo, and privilege escalation."
-=======
-        text: "Analysis of personal data breach vectors including keyloggers, fake sudo, and privilege escalation."
->>>>>>> edab71b97fd1e675e3aeca6c6ead55df133065f0
-        value: "50" #0-100 progress in %
-
-      # - label: "React" #0-10 progress in dots
-      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      #   value: "70" #0-100 progress in %
-
+        value: "50"
   column3:
     items:
-      - label: "Linux & Automation Scripting" #0-10 progress in dots
+      - label: "Linux & Automation Scripting"
         text: "Experience with Linux-based security configuration and log analysis using Python/Bash automation."
-        value: "50" #0-100 progress in %
-
-      # - label: "Adobe XD" #0-10 progress in dots
-      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      #   value: "80" #0-100 progress in %
-
+        value: "50"
+ 
 ### Resume [ resume ]
 resume:
   title: "Resume"
   subtitle: "my <b>Story</b>"
   bg_title: "History"
-
   education:
     title: "Education"
     items:
@@ -115,17 +74,14 @@ resume:
         subname: "Backend Programming"
         period: "2014 - 2016"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
       - name: "Lviv National Academy of Arts"
         subname: "Faculty of Design"
         period: "2012 - 2014"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
       - name: "IT Future"
         subname: "High School"
         period: "2010 - 2012"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
   experience:
     title: "Experience"
     items:
@@ -133,57 +89,47 @@ resume:
         subname: "Soft Tech Inc."
         period: "2020 - <b>Present</b>"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
       - name: "UI / UX Specialist"
         subname: "Kana Design Studio"
         period: "2018 - 2020"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
       - name: "Plugins Developer"
         subname: "Fiverr.com"
         period: "2016 - 2018"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
+ 
 ### Testimonials [ testimonials ]
 testimonials:
   title: "Testimonials"
   subtitle: "what <b>Customers Say</b>"
   bg_title: "Reviews"
-
   items:
     - image: "assets/img/testimonials/testi4-2.jpg"
       name: "Barbara Wilson"
       role: "CEO Company"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
     - image: "assets/img/testimonials/testi4-1.jpg"
       name: "Charlie Smith"
       role: "Designer"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
     - image: "assets/img/testimonials/testi4-4.jpg"
       name: "Roy Wang"
       role: "Manager GYM"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
     - image: "assets/img/testimonials/testi4-3.jpg"
       name: "Jennifer Smith"
       role: "CEO &amp; Founder"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
     - image: "assets/img/testimonials/testi4-5.jpg"
       name: "Paul Freeman"
       role: "Photographer"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
+ 
 ### Pricing [ pricing ]
 pricing:
   title: "Pricing"
   subtitle: "my <b>Price Board</b>"
   bg_title: "Pricing"
-
   items:
     - name: "Hourley Basis"
       center: false
@@ -202,7 +148,6 @@ pricing:
       button:
         label: "Start Project"
         link: "#contact-section"
-
     - name: "Freelancing"
       center: true
       label: "Popular"
@@ -221,7 +166,6 @@ pricing:
       button:
         label: "Start Project"
         link: "#contact-section"
-
     - name: "Full Time"
       center: false
       price: "1.249 <b>$</b>"
@@ -239,10 +183,8 @@ pricing:
       button:
         label: "Start Project"
         link: "#contact-section"
-
-
+ 
 ### Blog [ blog ]
-#items generates from dir /_posts/*
 blog:
   title: "Latest Blog"
   subtitle: "my <b>Articles and Advice</b>"
@@ -250,33 +192,27 @@ blog:
   button:
     label: "View Blog"
     link: "blog/"
-
-
+ 
 ### Contact [ contacts ]
 contacts:
   title: "Contact Me"
   subtitle: "Let’s <b>Talk About Ideas</b>"
   bg_title: "Contact Me"
-
   list:
     - label: "Address"
       icon: "far fa-map"
       text: "Seoul, Korea"
-
     - label: "Freelance"
       icon: "far fa-user"
       text: "Available Right Now"
-
     - label: "Email"
       icon: "far fa-envelope"
       text: "jeongggi@naver.com"
-
     - label: "Phone"
       icon: "far fa-address-book"
       text: "+82 010 - 0000 - 0000"
-
+ 
 ### Portfolio [ portfolio ]
-#items generates from dir /_works/*
 portfolio:
   title: "Portfolio"
   subtitle: "my <b>Cases</b>"
