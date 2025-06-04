@@ -9,14 +9,14 @@ settings:
 ### Preloader
 preloader:
   logo:
-    image: "assets/img/logo2.png"
-    alt: "Zoé Miller"
+    image: "assets/img/hej_logo.png"
+    alt: "HEJ"
 
 ### Header
 header:
   logo:
-    image: "assets/img/logo2.png"
-    alt: "Zoé Miller"
+    image: "assets/img/hej_logo.png"
+    alt: "HEJ"
 
 ### Social
 social:
