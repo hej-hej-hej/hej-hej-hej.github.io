@@ -9,13 +9,13 @@ settings:
 ### Preloader
 preloader:
   logo:
-    image: "assets/img/hej_logo.png"
+    image: "assets/img/logo.png"
     alt: "HEJ"
 
 ### Header
 header:
   logo:
-    image: "assets/img/hej_logo.png"
+    image: "assets/img/logo.png"
     alt: "HEJ"
 
 ### Social
