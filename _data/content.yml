@@ -7,17 +7,17 @@ hero:
   after_title: "I am <strong>Cyber Security Professional</strong>"
   description: "폴리텍대학 강서캠퍼스 사이버 보안과 2학년"
   button1:
-    label: "이력서 다운받기"
+    label: "깃허브 바로가기"
     link: "#"
   button2:
     label: "My Skills"
     link: "#skills-section"
   bg_title: "Cyber Security"
-  info:
-    - num: "2 <strong>+</strong>"
-      value: "Years of <strong>Experience</strong>"
-    - num: "4"
-      value: "Completed <strong>Projects</strong>"
+  #info:
+    #- num: "2 <strong>+</strong>"
+      #value: "Years of <strong>Experience</strong>"
+    #- num: "4"
+      #value: "Completed <strong>Projects</strong>"
  
 ### Services [ services ]
 services:
