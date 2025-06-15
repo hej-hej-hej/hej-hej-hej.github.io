@@ -49,17 +49,23 @@ skills:
   column1:
     items:
       - label: "C"
-        text: "배열과 문자열 처리/n포인터와 메모리 관리/n구조체와 파일 처리"
+        text: "배열과 문자열 처리
+        포인터와 메모리 관리
+        구조체와 파일 처리"
         value: "60"
   column2:
     items:
       - label: "Python"
-        text: "자료구조와 데이터 처리/n알고리즘과 문제 해결/n모듈과 라이브러리 활용"
+        text: "자료구조와 데이터 처리
+        알고리즘과 문제 해결
+        모듈과 라이브러리 활용"
         value: "60"
   column3:
     items:
       - label: "JSP"
-        text: "태그와 스크립트 처리, 내장 객체와 상태 관리, 폼과 사용자 입력 처리"
+        text: "태그와 스크립트 처리
+        내장 객체와 상태 관리
+        폼과 사용자 입력 처리"
         value: "60"
  
 ### Resume [ resume ]
@@ -70,18 +76,18 @@ resume:
   education:
     title: "Education"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Korea Polytechnics"
+        subname: "Cyber Security"
+        period: "2024 - 2025"
+        #text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      #- name: "Lviv National Academy of Arts"
+        #subname: "Faculty of Design"
+        #period: "2012 - 2014"
+        #text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      #- name: "IT Future"
+        #subname: "High School"
+        #period: "2010 - 2012"
+        #text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   experience:
     title: "Experience"
     items:
