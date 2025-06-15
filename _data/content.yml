@@ -52,21 +52,21 @@ skills:
         text: "배열과 문자열 처리<br>
         포인터와 메모리 관리<br>
         구조체와 파일 처리"
-        value: "60"
+        value: "70"
   column2:
     items:
       - label: "Python"
         text: "자료구조와 데이터 처리<br>
         알고리즘과 문제 해결<br>
         모듈과 라이브러리 활용"
-        value: "60"
+        value: "70"
   column3:
     items:
       - label: "JSP"
         text: "태그와 스크립트 처리<br>
         내장 객체와 상태 관리<br>
         폼과 사용자 입력 처리"
-        value: "60"
+        value: "70"
  
 ### Resume [ resume ]
 resume:
