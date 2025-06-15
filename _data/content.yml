@@ -48,19 +48,19 @@ skills:
   bg_title: "Skills"
   column1:
     items:
-      - label: "Privacy Law & Policy Planning"
-        text: "Experience in developing policies based on international privacy regulations (PIPA, GDPR)."
-        value: "50"
+      - label: "C"
+        text: "배열과 문자열 처리/n포인터와 메모리 관리/n구조체와 파일 처리"
+        value: "60"
   column2:
     items:
-      - label: "Privacy-Focused Security Practice"
-        text: "Analysis and response to personal data breach vectors based on various security threat scenarios including keyloggers, fake sudo, and privilege escalation."
-        value: "50"
+      - label: "Python"
+        text: "자료구조와 데이터 처리/n알고리즘과 문제 해결/n모듈과 라이브러리 활용"
+        value: "60"
   column3:
     items:
-      - label: "Linux & Automation Scripting"
-        text: "Experience with Linux-based security configuration and log analysis using Python/Bash automation."
-        value: "50"
+      - label: "JSP"
+        text: "태그와 스크립트 처리, 내장 객체와 상태 관리, 폼과 사용자 입력 처리"
+        value: "60"
  
 ### Resume [ resume ]
 resume:
