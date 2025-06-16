@@ -5,7 +5,7 @@ title: OS Command Injection
 category: Web Security
 category_slug: Web Security
 image: assets/img/works/os_001.png
-short_description: OS 명령 인젝션에서 &와 | 연산자를 활용한 명령 연결 기법과 Netcat을 이용한 리버스 셸 구축을 통해 시스템 제어권 획득하는 실습습
+short_description: OS 명령 인젝션에서 &와 | 연산자를 활용한 명령 연결 기법과 Netcat을 이용한 리버스 셸 구축을 통해 시스템 제어권 획득하는 실습
 
 # full details
 live_preview: https://bslthemes.com
